@@ -1,0 +1,9 @@
+0 nothing
+1 kida
+2 katanishi
+3 mausu
+4 keyholder
+5 note
+6 box
+7 left hand
+8 right hand
